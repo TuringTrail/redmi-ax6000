@@ -23,5 +23,6 @@ git clone https://github.com/sbwml/luci-app-mosdns -b v5 package/mosdns
 git clone https://github.com/sbwml/v2ray-geodata package/v2ray-geodata
 git clone https://github.com/sirpdboy/luci-app-ddns-go package/ddns-go
 git clone  https://github.com/gdy666/luci-app-lucky package/lucky
+git clone  https://github.com/fw876/helloworld package/helloworld
 
 
