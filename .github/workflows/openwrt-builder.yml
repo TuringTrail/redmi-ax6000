@@ -111,8 +111,8 @@ jobs:
         $GITHUB_WORKSPACE/$DIY_P2_SH
 
 
-    - name: Setup Debug Session
-      uses: csexton/debugger-action@master
+    #- name: Setup Debug Session
+    #  uses: csexton/debugger-action@master
 
 
 
